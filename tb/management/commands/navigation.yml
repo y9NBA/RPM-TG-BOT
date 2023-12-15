@@ -1,0 +1,19 @@
+1:
+  "message": "'Главное меню'"
+  "static_buttons":
+    "Отправить нагрузку": 
+      "new_state": 11
+    "Получить расписание": 
+      "new_state": 12
+
+11:
+  "message": "'Отправка нагрузки'"
+  "static_buttons":
+    "⬅": 
+      "new_state": 1
+
+12:
+  "message": "'Группы'"
+  "static_buttons":
+    "3-1П9": 
+      "new_state": 1
